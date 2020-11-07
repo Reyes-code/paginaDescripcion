@@ -1,0 +1,68 @@
+.bg-light1{
+    background-color: rgba(161, 205, 243, 0.658);
+}
+.card-title1{
+     margin-bottom: .75rem;
+     font-size: 50px;
+}
+
+.lado{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+.carousel-inner1{
+    position: relative;
+    width: 150px;
+    overflow: hidden;
+}
+
+.carousel-control-prev-icon1{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: no-repeat 50%/100% 100%;
+}
+
+.carro{
+    width: 450px;
+    
+    display: block;
+    
+    margin-bottom: 10%;
+    margin-left: 13%;
+    float: left;
+}
+
+.flotar{
+    float: left;
+}
+
+.lado2{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+}
+
+.tcentro{
+    text-align: center;
+}
+
+.margenxd{
+    margin-left: 30%;
+    margin-right: 5%;
+}
+
+.mus{
+    font-size: 23px;
+}
+
+.fon{
+    background-color: beige;
+}
+.fin{
+    margin-bottom: 5%;
+}
+
+
+
